@@ -1,0 +1,15 @@
+D:\mesitero\memo-main\bin\Debug\memo.exe.config
+D:\mesitero\memo-main\bin\Debug\memo.exe
+D:\mesitero\memo-main\bin\Debug\memo.pdb
+D:\mesitero\memo-main\obj\Debug\memo.csproj.AssemblyReference.cache
+D:\mesitero\memo-main\obj\Debug\MainWindow.g.cs
+D:\mesitero\memo-main\obj\Debug\App.g.cs
+D:\mesitero\memo-main\obj\Debug\memo_MarkupCompile.cache
+D:\mesitero\memo-main\obj\Debug\memo_MarkupCompile.lref
+D:\mesitero\memo-main\obj\Debug\memo.Properties.Resources.resources
+D:\mesitero\memo-main\obj\Debug\memo.csproj.GenerateResource.cache
+D:\mesitero\memo-main\obj\Debug\memo.csproj.CoreCompileInputs.cache
+D:\mesitero\memo-main\obj\Debug\memo.exe
+D:\mesitero\memo-main\obj\Debug\memo.pdb
+D:\mesitero\memo-main\obj\Debug\MainWindow.baml
+D:\mesitero\memo-main\obj\Debug\memo.g.resources
